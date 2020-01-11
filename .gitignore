@@ -123,7 +123,6 @@ dmypy.json
 .pyre/
 
 .idea/
-*.txt
 *.json
 *.png
 *.jpg
