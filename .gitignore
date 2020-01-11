@@ -125,3 +125,4 @@ dmypy.json
 .idea/
 *.txt
 *.json
+*.png
